@@ -1,6 +1,6 @@
 # ADM Developer
 
-[![Website Status](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwww.admdeveloper.com.br)](https://www.admdeveloper.com.br) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ADM%20Developer-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/24834366)
+[![🌐 Website Status](https://img.shields.io/website?label=🌐%20Website&down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwww.admdeveloper.com.br&style=flat)](https://www.admdeveloper.com.br) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/24834366) [![Instagram](https://img.shields.io/badge/Instagram-@admdeveloper-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/adm.developer/)
 
 ---
 
